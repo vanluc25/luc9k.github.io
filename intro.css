@@ -1353,7 +1353,7 @@ body{
 /* ---------slider2-------- */
 .slider2{
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     display: flex;
@@ -2006,7 +2006,7 @@ body{
         bottom: 25px;
     }
     .box-flower{
-        display: none;
+        display: n;
     }
     .number2023{
         top: 60%;
@@ -2028,7 +2028,7 @@ body{
         height: 170px;
     }
     .mail{
-        margin-top: 370px;
+        margin-top: 270px;
         z-index: 1000000000000000;
     }
     .slider3 .box-content{
